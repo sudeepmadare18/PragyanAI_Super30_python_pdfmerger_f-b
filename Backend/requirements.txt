@@ -2,4 +2,3 @@ fastapi
 uvicorn[standard]
 pypdf
 python-multipart
-jinja2
